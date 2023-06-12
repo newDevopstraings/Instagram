@@ -1,3 +1,0 @@
-ge/ga/gm
-hi
-hello...
